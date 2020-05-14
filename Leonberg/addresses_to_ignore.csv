@@ -1,0 +1,302 @@
+addr:street,addr:housenumber,exists,reason,ignore_date
+Wilhelmstraße,15,False,object has different address already,2020-05-01
+Wilhelmstraße,15/1,False,object has different address already,2020-05-01
+Wilhelmstraße,15/2,False,object has different address already,2020-05-01
+Wilhelmstraße,50,False,object has different address already,2020-05-01
+Zeppelinstraße,5/2,False,object has different address already,2020-05-01
+Zeppelinstraße,5/1,False,object has different address already,2020-05-01
+Weinbergstraße,63,False,building does not exist,2020-05-01
+Weinbergstraße,19,False,building does not exist,2020-05-01
+Weinbergstraße,17,False,building does not exist,2020-05-01
+Weinbergstraße,123/1,False,object has different address already,2020-05-01
+Akazienweg,4/3,False,object has different address already,2020-05-01
+Akazienweg,4/2,False,object has different address already,2020-05-01
+Akazienweg,4/1,False,object has different address already,2020-05-01
+Agnes-Miegel-Straße,4/3,False,building does not exist,2020-05-01
+Albertus-Magnus-Straße,26,True,address does exist,2020-05-01
+Allmandweg,7/1,False,building does not exist,2020-05-01
+Alte Ramtelstraße,23/1,False,object has different address already,2020-05-01
+Am Längenbühl,2,False,building does not exist,2020-05-01
+Am Längenbühl,4,False,building does not exist,2020-05-01
+Am Längenbühl,10,False,building does not exist,2020-05-01
+Am Längenbühl,14,False,building does not exist,2020-05-01
+Am Längenbühl,16,False,building does not exist,2020-05-01
+Am Längenbühl,24,False,building does not exist,2020-05-01
+Am Schlauchengraben,6,True,address does exist,2020-05-01
+Am Wäschbach,3,False,building does not exist,2020-05-01
+Am Wäschbach,9,False,building does not exist,2020-05-01
+Am Wäschbach,2,True,address does exist,2020-05-01
+Arndtstraße,15,True,address does exist,2020-05-01
+August-Lämmle-Weg,19,False,building does not exist,2020-05-01
+August-Lämmle-Weg,21,False,building does not exist,2020-05-01
+August-Lämmle-Weg,23,False,building does not exist,2020-05-01
+August-Lämmle-Weg,62/1,False,object has different address already,2020-05-01
+Bahnhofstraße,15,False,building does not exist,2020-05-01
+Bahnhofstraße,45,False,building does not exist,2020-05-01
+Bahnhofstraße,83,False,building does not exist,2020-05-01
+Beisheimer Straße,3463/4,False,invalid address,2020-05-01
+Beisheimer Straße,8/1,False,building does not exist,2020-05-01
+Beisheimer Straße,3,False,building does not exist,2020-05-01
+Berghalde,27/1,False,building does not exist,2020-05-01
+Berghalde,43/1,False,garage,2020-05-01
+Bergstraße,18/1,False,object has different address already,2020-05-01
+Bergstraße,6,True,address does exist,2020-05-01
+Berliner Straße,60,False,building does not exist,2020-05-01
+Binsenweg,3,False,building does not exist,2020-05-01
+Blosenberg,1,False,building does not exist,2020-05-01
+Brandenburger Straße,16,True,address does exist,2020-05-01
+Brennerstraße,44,False,object has different address already,2020-05-01
+Brennerstraße,8873,False,invalid address,2020-05-01
+Wanne,3353,False,invalid address,2020-05-01
+Römersteiner Weg,4,False,building does not exist,2020-05-01
+Römersteiner Weg,6,False,building does not exist,2020-05-01
+Römersteiner Weg,8,False,building does not exist,2020-05-01
+Römersteiner Weg,10,False,building does not exist,2020-05-01
+Römersteiner Weg,14,False,building does not exist,2020-05-01
+Römersteiner Weg,16,False,building does not exist,2020-05-01
+Jahnstraße,2,False,building does not exist,2020-05-01
+Jahnstraße,4,False,building does not exist,2020-05-01
+Jahnstraße,6,False,building does not exist,2020-05-01
+Jahnstraße,6/1,False,building does not exist,2020-05-01
+Jahnstraße,6/2,False,building does not exist,2020-05-01
+Jahnstraße,8,False,building does not exist,2020-05-01
+Jahnstraße,10,False,building does not exist,2020-05-01
+Jahnstraße,12,False,building does not exist,2020-05-01
+Jahnstraße,12/1,False,building does not exist,2020-05-01
+Jahnstraße,12/2,False,building does not exist,2020-05-01
+Jahnstraße,14,False,building does not exist,2020-05-01
+Jahnstraße,16,False,building does not exist,2020-05-01
+Jahnstraße,18,False,building does not exist,2020-05-01
+Jahnstraße,20,False,building does not exist,2020-05-01
+Jahnstraße,22,False,building does not exist,2020-05-01
+Jahnstraße,26,False,building does not exist,2020-05-01
+Jahnstraße,24,False,building does not exist,2020-05-01
+Ellwanger Straße,5,False,building does not exist,2020-05-01
+Ellwanger Straße,9,False,building does not exist,2020-05-01
+Ellwanger Straße,19,False,building does not exist,2020-05-01
+Ellwanger Straße,38,False,building does not exist,2020-05-01
+Ellwanger Straße,39,False,building does not exist,2020-05-01
+Ellwanger Straße,40,False,building does not exist,2020-05-01
+Ellwanger Straße,46,False,building does not exist,2020-05-01
+Ellwanger Straße,49,False,building does not exist,2020-05-01
+Ellwanger Straße,51,False,building does not exist,2020-05-01
+Ellwanger Straße,54,False,building does not exist,2020-05-01
+Gebersheimer Straße,2286,False,invalid address,2020-05-01
+Gebersheimer Straße,3197,False,invalid address,2020-05-01
+Glemseckstraße,6905/32,False,invalid address,2020-05-01
+Glemseckstraße,6905/38,False,invalid address,2020-05-01
+Heumahden,1260,False,invalid address,2020-05-01
+Heumahden,1258,False,invalid address,2020-05-01
+Heumahden,1253,False,invalid address,2020-05-01
+Heumahden,1257,False,invalid address,2020-05-01
+Heumahden,1250,False,invalid address,2020-05-01
+Heumahden,1245,False,invalid address,2020-05-01
+Heumahden,1246,False,invalid address,2020-05-01
+Heumahden,1244/2,False,invalid address,2020-05-01
+Heumahden,1242,False,invalid address,2020-05-01
+Heumahden,1243,False,invalid address,2020-05-01
+Heumahden,1239,False,invalid address,2020-05-01
+Heumahden,1240,False,invalid address,2020-05-01
+Hubert-Giesen-Weg,6,False,building does not exist,2020-05-01
+Hubert-Giesen-Weg,8,False,building does not exist,2020-05-01
+Hubert-Giesen-Weg,10,False,building does not exist,2020-05-01
+Hummelberg,6130,False,invalid address,2020-05-01
+Hummelberg,6132,False,invalid address,2020-05-01
+Im Mahdental,60,False,building does not exist,2020-05-01
+In den Ziegelwiesen,13,False,building does not exist,2020-05-01
+In den Ziegelwiesen,52,True,address does exist,2020-05-01
+In der Au,18,True,address does exist,2020-05-01
+Kirchbachstraße,36,False,building does not exist,2020-05-01
+Kirchbachstraße,38,False,building does not exist,2020-05-01
+Kleffern,4057/2,False,invalid address,2020-05-01
+Kleffern,4106,False,invalid address,2020-05-01
+Krampfrain,1812/1,False,invalid address,2020-05-01
+Künzenstraße,17/1,False,object has different address already,2020-05-01
+Lichtensteiner Weg,6,False,building does not exist,2020-05-01
+Lichtensteiner Weg,8,False,building does not exist,2020-05-01
+Lichtensteiner Weg,10,False,building does not exist,2020-05-01
+Lichtensteiner Weg,12,False,building does not exist,2020-05-01
+Ludwig-Finckh-Weg,25/3,False,building does not exist,2020-05-01
+Ludwig-Finckh-Weg,25/4,False,building does not exist,2020-05-01
+Ludwig-Finckh-Weg,25/5,False,building does not exist,2020-05-01
+Ludwig-Finckh-Weg,25/6,False,building does not exist,2020-05-01
+Ludwig-Finckh-Weg,33/1,False,object has different address already,2020-05-01
+Ludwigsburger Straße,8,False,building does not exist,2020-05-01
+Margarete-Stingele-Weg,4,False,building does not exist,2020-05-01
+Margarete-Stingele-Weg,6,False,building does not exist,2020-05-01
+Mollenbachstraße,35,False,object has different address already,2020-05-01
+Mollenbachstraße,53/3,False,building does not exist,2020-05-01
+Obere Burghalde,45,False,building does not exist,2020-05-01
+Obere Feinau,8003/3,False,invalid address,2020-05-01
+Obere Feinau,8004/2,False,invalid address,2020-05-01
+Unter dem Seehaus,1851/2,False,invalid address,2020-05-01
+Tiefenbach,8738/2,False,invalid address,2020-05-01
+Stuttgarter Straße,2870,False,invalid address,2020-05-01
+Schopfloch,6314/1,False,invalid address,2020-05-01
+Oberer Mühlweg,4,False,building does not exist,2020-05-01
+Oberer Mühlweg,6,False,building does not exist,2020-05-01
+Oberer Mühlweg,10,False,building does not exist,2020-05-01
+Oberer Mühlweg,16,False,building does not exist,2020-05-01
+Oberer Mühlweg,20,False,building does not exist,2020-05-01
+Oberer Mühlweg,22,False,building does not exist,2020-05-01
+Oberer Schützenrain,60,False,building does not exist,2020-05-01
+Paracelsusstraße,55,False,building does not exist,2020-05-01
+Pforzheimer Straße,67,False,building does not exist,2020-05-01
+Poststraße,59,False,building does not exist,2020-05-01
+Poststraße,57,False,building does not exist,2020-05-01
+Poststraße,70,False,building does not exist,2020-05-01
+Quellenstraße,32/1,False,garage,2020-05-01
+Renninger Straße,8505/6,False,invalid address,2020-05-01
+Röntgenstraße,1083,False,invalid address,2020-05-01
+Rötestraße,18,False,building does not exist,2020-05-01
+Rötestraße,20,False,building does not exist,2020-05-01
+Oberer Schützenrain,4,False,building does not exist,2020-05-01
+Pfaffenwiesenstraße,6,False,object has different address already,2020-05-01
+Pfaffenwiesenstraße,8,False,object has different address already,2020-05-01
+Pfaffenwiesenstraße,12,False,object has different address already,2020-05-01
+Steinbeisstraße,8,False,building does not exist,2020-05-01
+Seitenstraße,1/3,False,object has different address already,2020-05-01
+Seitenstraße,1/2,False,object has different address already,2020-05-01
+Tiroler Straße,12,False,building does not exist,2020-05-01
+Tiroler Straße,28,False,object has different address already,2020-05-01
+Tunnelstraße,14,False,building does not exist,2020-05-01
+Tunnelstraße,16/1,False,object has different address already,2020-05-01
+Untere Burghalde,11,False,building does not exist,2020-05-01
+Untere Burghalde,27/1,False,object has different address already,2020-05-01
+Untere Burghalde,124,False,building does not exist,2020-05-01
+Walter-Flex-Straße,2/1,False,object has different address already,2020-05-01
+Walter-Helmes-Weg,23,False,building does not exist,2020-05-01
+Wannenäcker,1,False,building does not exist,2020-05-01
+Warmbronner Weg,5,False,building does not exist,2020-05-01
+Tilgshausenstraße,10,False,building does not exist,2020-05-01
+Talwiesen,4,False,building does not exist,2020-05-01
+Südstraße,6,False,building does not exist,2020-05-01
+Südstraße,6/1,False,building does not exist,2020-05-01
+Südstraße,6/2,False,building does not exist,2020-05-01
+Südstraße,6/3,False,building does not exist,2020-05-01
+Südstraße,8,False,building does not exist,2020-05-01
+Südstraße,9,False,building does not exist,2020-05-01
+Stuttgarter Straße,120/4,False,building does not exist,2020-05-01
+Stuttgarter Straße,120/2,False,building does not exist,2020-05-01
+Stuttgarter Straße,120/3,False,building does not exist,2020-05-01
+Stuttgarter Straße,120/1,False,building does not exist,2020-05-01
+Stuttgarter Straße,113,False,building does not exist,2020-05-01
+Stuttgarter Straße,96,False,building does not exist,2020-05-01
+Stuttgarter Straße,41,False,object has different address already,2020-05-01
+Stuttgarter Straße,21,False,building does not exist,2020-05-01
+Waldeckstraße,13,False,just outside official town boundaries,2020-05-01
+Untere Burghalde,103,False,building does not exist,2020-05-01
+Seedammstraße,4,False,building does not exist,2020-05-01
+Schweizermühle,11,False,building does not exist,2020-05-01
+Schubartstraße,34,False,garage,2020-05-01
+Schleiermacherstraße,2,False,building does not exist,2020-05-01
+Schleiermacherstraße,33,False,building does not exist,2020-05-01
+Schießrainstraße,30/1,False,object has different address already,2020-05-01
+Schafstraße,17/1,False,object has different address already,2020-05-01
+Rutesheimer Straße,47,False,building does not exist,2020-05-01
+Rutesheimer Straße,50/2,False,subnumbers,2020-05-01
+Rutesheimer Straße,50/3,False,subnumbers,2020-05-01
+Rutesheimer Straße,50/5,False,subnumbers,2020-05-01
+Rutesheimer Straße,65,False,building does not exist,2020-05-01
+Alte Dorfstraße,15/1,False,building does not exist,2020-05-01
+Alte Dorfstraße,15/2,False,building does not exist,2020-05-01
+Alter Bahnhofweg,11,False,building does not exist,2020-05-01
+Am Längenbühl,6/1,False,garage,2020-05-01
+Bruckenbachstraße,18,False,building does not exist,2020-05-01
+Bruckenbachstraße,36,False,object has different address already,2020-05-01
+Bulachweg,2,False,building does not exist,2020-05-01
+Büsnauer Straße,52,False,building does not exist,2020-05-01
+Carl-Schmincke-Straße,38/1,False,garage,2020-05-01
+Carl-Sonnenschein-Weg,5,False,object has different address already,2020-05-01
+Dinkelweg,7/1,False,building does not exist,2020-05-01
+Ditzinger Straße,66,False,building does not exist,2020-05-01
+Ditzinger Straße,68,False,building does not exist,2020-05-01
+Ditzinger Straße,70,False,building does not exist,2020-05-01
+Silberberger Weg,1,False,building does not exist,2020-05-01
+Renninger Straße,1/1,False,building does not exist,2020-05-01
+Renninger Straße,27,False,building does not exist,2020-05-01
+Renninger Straße,29,False,building does not exist,2020-05-01
+Rechbergstraße,3,False,building does not exist,2020-05-01
+Rauhes Stück,2,False,building does not exist,2020-05-01
+Parkstraße,23/1,False,object has different address already,2020-05-01
+Obere Tannenbergstraße,32,False,object has different address already,2020-05-01
+Obere Burghalde,20/1,False,building does not exist,2020-05-01
+Obere Burghalde,13/4,False,object has different address already,2020-05-01
+Obere Burghalde,22,False,building does not exist,2020-05-01
+Obere Burghalde,22/1,False,building does not exist,2020-05-01
+Meisenbergweg,12,False,building does not exist,2020-05-01
+Meisenbergweg,17,False,building does not exist,2020-05-01
+Maybachstraße,9,False,building does not exist,2020-05-01
+Max-Eyth-Straße,23/1,False,garage,2020-05-01
+Liststraße,7/3,False,object has different address already,2020-05-01
+Lessingstraße,10,False,building does not exist,2020-05-01
+Lenauweg,8,False,building does not exist,2020-05-01
+Lenauweg,10,False,building does not exist,2020-05-01
+Lauerhaldenweg,2/1,False,building does not exist,2020-05-01
+Im Wengert,28/5,False,garage,2020-05-01
+Im Steinbergle,3,False,building does not exist,2020-05-01
+Bruckenbachstraße,25/1,False,garage,2020-05-01
+Dresdener Straße,23,False,garage,2020-05-01
+Eltinger Straße,24/1,False,building does not exist,2020-05-01
+Eltinger Straße,48,False,object has different address already,2020-05-01
+Eschenweg,10,False,building does not exist,2020-05-01
+Eschenweg,37,False,building does not exist,2020-05-01
+Felsgartenstraße,26/1,False,garage,2020-05-01
+Fichtestraße,15,False,building does not exist,2020-05-01
+Friedenstraße,22,False,building does not exist,2020-05-01
+Friedenstraße,22/1,False,building does not exist,2020-05-01
+Friedenstraße,28,False,building does not exist,2020-05-01
+Fröbelstraße,13,False,building does not exist,2020-05-01
+Gebersheimer Straße,5/1,False,object has different address already,2020-05-01
+Gebersheimer Straße,7/1,False,object has different address already,2020-05-01
+Gebersheimer Straße,11/1,False,object has different address already,2020-05-01
+Ginsterweg,1,False,building does not exist,2020-05-01
+Ginsterweg,1/1,False,building does not exist,2020-05-01
+Ginsterweg,1/2,False,building does not exist,2020-05-01
+Gleiwitzer Straße,2,False,object has different address already,2020-05-01
+Gleiwitzer Straße,2/1,False,building does not exist,2020-05-01
+Gleiwitzer Straße,23/1,False,garage,2020-05-01
+Gleiwitzer Straße,710,False,invalid address,2020-05-01
+Glemseck,1/1,False,object has different address already,2020-05-01
+Seestraße,5,False,building does not exist,2020-05-01
+Seestraße,125,False,building does not exist,2020-05-01
+Neue Ramtelstraße,2/1,False,building does not exist,2020-05-01
+Margarete-Stingele-Weg,2,False,object has different address already,2020-05-01
+Lohlenbachweg,28/1,False,garage,2020-05-01
+Leonberger Straße,27/1,False,object has different address already,2020-05-01
+Leonberger Straße,61,False,building does not exist,2020-05-01
+Im Brühl,61/2,False,object has different address already,2020-05-01
+Hubertusbrunn,4,False,building does not exist,2020-05-01
+Hohensteiner Weg,5,False,building does not exist,2020-05-01
+Hohensteiner Weg,14,False,building does not exist,2020-05-01
+Hohensteiner Weg,15/1,False,building does not exist,2020-05-01
+Hohensteiner Weg,16,False,building does not exist,2020-05-01
+Hohe Steige,6,False,building does not exist,2020-05-01
+Hirschweg,16,False,building does not exist,2020-05-01
+Hirschlander Straße,10/2,False,building does not exist,2020-05-01
+Hinterer Zwinger,12,False,building does not exist,2020-05-01
+Hinter den Gärten,28/1,False,building does not exist,2020-05-01
+Heumahden,1221/2,False,invalid address,2020-05-01
+Heumahden,2,False,building does not exist,2020-05-01
+Glemseckstraße,65/1,False,building does not exist,2020-06-28
+Glemseckstraße,76,False,building does not exist,2020-06-28
+Glemseckstraße,127,False,building does not exist,2020-06-28
+Glemseckstraße,129,False,building does not exist,2020-06-28
+Glemsstraße,8/2,False,building does not exist,2020-06-28
+Goethestraße,14,False,building does not exist,2020-06-28
+Guldenmannstraße,31,False,object has different address already,2020-06-28
+Hauffstraße,29/6,False,building does not exist,2020-06-28
+Hauptstraße,24,False,building does not exist,2020-06-28
+Hauptstraße,67,False,building does not exist,2020-06-28
+Heckenweg,24/1,False,building does not exist,2020-06-28
+Heideweg,3,False,building does not exist,2020-06-28
+Herdweg,2832,False,invalid address,2020-06-28
+Hertichstraße,3,False,object has different address already,2020-06-28
+Hertichstraße,59/1,False,building does not exist,2020-06-28
+Bildstöckle,13,False,wrong street,2020-06-30
+Feuerbacher Straße,18/1,False,wrong street,2020-06-30
+Hoffmannstraße,25,False,wrong street,2020-06-30
+Roseggerstraße,14/1,False,wrong street,2020-06-30
+Tiroler Straße,9,False,wrong street,2020-06-30
+Steinbruchweg,1,False,building does not exist,2020-07-01
+Steinbruchweg,2,False,building does not exist,2020-07-01
