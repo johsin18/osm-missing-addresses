@@ -1,0 +1,5 @@
+addr:street,addr:place,addr:housenumber,@type,@id
+Berliner Straße,,52,node,134571762
+Höfinger Straße,,4,node,173002389
+Leonberger Straße,,110,node,196307039
+,Heumahden,1,node,765252785

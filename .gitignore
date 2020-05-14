@@ -140,3 +140,16 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+.idea/inspectionProfiles/
+.idea/pycrunch-window-jetbrains.xml
+Leonberg/200205_Adressen_Leonberg_ohne_Garagen.xls.xlsx
+Leonberg/ignored_addresses.backup.csv
+*/missing_addresses.osm
+*/reference_addresses.csv
+*/street_ordered_html_summary.html
+addresses.osm
+street_ordered_html_summary.html
+tests/20200522_Leonberg_actual.csv
+tests/reference_addresses.csv
+tests/keeper_addresses_to_be_ignored_different_reason.csv
+tests/keeper_addresses_to_be_ignored_not_anymore.csv

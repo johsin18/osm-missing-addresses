@@ -1,0 +1,5 @@
+* never round up to 100%
+* live statistics update
+* long-term statistics
+* feedback from server when ignoring
+* add OSM note automatically

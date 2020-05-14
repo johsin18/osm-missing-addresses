@@ -1,0 +1,6 @@
+addr:street,addr:place,addr:housenumber,@type,@id
+Identical Street,,1,way,1
+Identical Street,,7,way,7
+,Identical Street,13,way,13
+Surplus Street,,4,node,31
+Surplus Street,,3,way,32

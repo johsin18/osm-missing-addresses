@@ -1,0 +1,10 @@
+Reasons:
+
+not a house
+building does not exist yet
+building does not exist anymore
+object does not show a housenumber
+not on aerial imagery
+garage
+object has a different address
+split into subnumbers

@@ -1,0 +1,72 @@
+body {
+  font-family: Arial;
+}
+
+table {
+  border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid black;
+}
+table.sticky th {
+  background-color: white;
+  top: 0;
+}
+table.sticky th::after {
+  content: '';
+  width: 100%;
+  height: 2px;
+  position: absolute;
+}
+tr:nth-child(even) {
+  background: Lavender;
+}
+tr:nth-child(odd) {
+  background: White;
+}
+td {
+  padding: 4px 2px 3px 2px;
+  line-height: 25px;
+}
+a-i {
+    background: blue;
+}
+a-m {
+    background: red;
+}
+a-m[ignored] {
+    text-decoration: line-through;
+    background: rgb(255, 127, 127);
+}
+a-s {
+    background: green;
+}
+a-s[ignored] {
+    text-decoration: line-through;
+    background: rgb(127, 255, 127);
+}
+.address {
+    user-select: none;
+    color: white;
+    padding: 2px 4px 2px 4px;
+    border: 1px solid white;
+}
+.address[selected] {
+  border: 1px dashed yellow;
+}
+#toolWindow {
+  position: absolute;
+  background: white;
+  border: 2px solid black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  display: none;
+  padding: 10px;
+}
+a[disabled] {
+  pointer-events: none;
+  cursor: default;
+  color: LightGray;
+}
+button[selected] {
+  background-color: DarkGray;
+}

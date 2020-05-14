@@ -1,0 +1,3 @@
+addr:street,addr:housenumber,exists,reason,ignore_date
+Missing Street,3,False,building does not exist,2020-05-13
+Surplus Street,4,True,building does exist,2020-05-13

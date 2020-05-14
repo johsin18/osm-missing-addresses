@@ -1,0 +1,4 @@
+addr:street,addr:housenumber,exists,reason,ignore_date
+Heumahden,2,false,building does not exist,2020-05-07
+Hauptstraße,4,true,custom reason
+Invalid Housenumber,2a3,true,whatever
