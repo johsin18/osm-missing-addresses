@@ -1,0 +1,10 @@
+# documentation https://pycrunch.com/docs/configuration-file
+discovery:
+    exclusions:
+        # (example) do not search tests in 'ignored_folder' folder
+        - missing_addresses
+        - venv
+        - ui_tests
+
+engine:
+    runtime: pytest
