@@ -141,6 +141,7 @@ dmypy.json
 cython_debug/
 
 .idea/inspectionProfiles/
+.idea/pycrunch-vars-window-jetbrains.xml
 .idea/pycrunch-window-jetbrains.xml
 Leonberg/200205_Adressen_Leonberg_ohne_Garagen.xls.xlsx
 Leonberg/ignored_addresses.backup.csv
