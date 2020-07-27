@@ -11,3 +11,4 @@ numpy~=1.19.1
 pytest~=5.4.3
 AdvancedHTMLParser~=9.0.1
 pycrunch-engine
+coverage==4.5.3
