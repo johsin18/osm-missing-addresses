@@ -32,7 +32,10 @@ class StreetOrderedHtmlSummary:
                 with tag('h1'):
                     text(f'Missing Addresses of {metadata.area_name}')
                 with tag('p'):
-                    text(f'Generated on {self.__format_date(metadata.generation_date)}, '
+                    text(f'Generated on ')
+                    with tag('span', id="generationDatetime"):
+                        text(f'{self.__format_date(metadata.generation_date)}')
+                    text(f', ',
                          f'OpenStreetMap data from {self.__format_date(metadata.actual_date)}, '
                          f'reference data from {self.__format_date(metadata.reference_date)}')
 
@@ -52,7 +55,7 @@ class StreetOrderedHtmlSummary:
                     with tag('tbody'):
                         name: str
                         for name in ordered_streets:
-                            with tag('tr'):
+                            with tag('tr', name=name):
                                 a: Address
                                 with tag('td'):
                                     doc.asis(name)
