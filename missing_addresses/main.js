@@ -14,7 +14,6 @@ let toolWindow = document.getElementById('toolWindow');
 let linkShowInOsmOrg = document.getElementById('linkShowInOsmOrg');
 let linkLoadInJosm = document.getElementById('linkLoadInJosm');
 let linkAddInJosm = document.getElementById('linkAddInJosm');
-let linkRequestIgnore = document.getElementById('linkRequestIgnore');
 let customReasonButton = document.getElementById('customReasonButton');
 let customReasonInput = document.getElementById('customReasonInput');
 let primitiveReference = null;
@@ -151,6 +150,17 @@ function selectIgnoreReason() {
     }
   }
 }
+
+function requestNotIgnore() {
+  let request = new XMLHttpRequest();
+  request.open("DELETE", "./addresses_to_ignore?street=" + streetName + "&housenumber=" + housenumber);
+  request.send();
+
+  selectedAddress.removeAttribute('ignored');
+  selectedAddress.removeAttribute('reason');
+  selectIgnoreReason(reason);
+}
+
 
 // Keep the tag names as short as possible, to keep document size minimal
 

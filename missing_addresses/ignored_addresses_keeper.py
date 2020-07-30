@@ -18,5 +18,9 @@ class IgnoredAddressesKeeper:
         self.addresses_to_be_ignored[a] = i
         self.save()
 
+    def remove_ignored(self, a: Address):
+        del self.addresses_to_be_ignored[a]
+        self.save()
+
     def save(self):
         self.export.save_ignored(self.addresses_to_be_ignored)

@@ -149,9 +149,8 @@ Leonberg/ignored_addresses.backup.csv
 */reference_addresses.csv
 */street_ordered_html_summary.html
 addresses.osm
-keeper_addresses_to_be_ignored.csv
-keeper_addresses_to_be_ignored_different_reason.csv
 street_ordered_html_summary.html
 tests/20200522_Leonberg_actual.csv
 tests/reference_addresses.csv
 tests/keeper_addresses_to_be_ignored_different_reason.csv
+tests/keeper_addresses_to_be_ignored_not_anymore.csv

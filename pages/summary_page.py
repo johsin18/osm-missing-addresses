@@ -3,6 +3,7 @@ from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.common.by import By
 from datetime import datetime, timedelta
 import time
+from typing import List
 
 
 class SummaryPage:
@@ -92,4 +93,14 @@ class SummaryPage:
 
     def ignore_reason_selected(self, reason) -> bool:
         ignore_button: WebElement = self.find_ignore_button(reason)
-        return ignore_button.get_attribute('selected') == 'true'
+        return ignore_button is not None and ignore_button.get_attribute('selected') == 'true'
+
+    def not_ignore(self):
+        not_ignore_button: WebElement = self.browser.find_element(By.ID, 'notIgnoreButton')
+        assert not_ignore_button is not None
+        not_ignore_button.click()
+
+    def not_ignored(self):
+        buttons: List[WebElement] = self.browser.find_elements(By.XPATH, '//div[@id="ignoreButtons"]/button')
+        custom_reason_input: WebElement = self.browser.find_element(By.ID, 'customReasonInput')
+        return all(b.get_attribute('selected') != 'true' for b in buttons) and custom_reason_input.text == ''

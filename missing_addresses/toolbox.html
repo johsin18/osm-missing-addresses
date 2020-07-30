@@ -11,10 +11,13 @@
     <button id="linkLoadInJosm" onclick="loadPrimitiveInJosm();">load</button>&nbsp;
     <button id="linkAddInJosm" onclick="addLatLonInJosm();">add</button><br />
     ignore, with reason...<br />
-    <button onclick="requestIgnore(this);">building does not exist</button><br />
-    <button onclick="requestIgnore(this);">garage</button><br />
-    <button onclick="requestIgnore(this);">object has different address already</button><br />
-    <button onclick="requestIgnore(this);">invalid address</button><br />
-    <button onclick="requestIgnore(this);">address does exist</button><br />
+    <button id="notIgnoreButton" style="float: right;" onclick="requestNotIgnore()">x</button>
+    <div id="ignoreButtons">
+        <button onclick="requestIgnore(this);">building does not exist</button><br />
+        <button onclick="requestIgnore(this);">garage</button><br />
+        <button onclick="requestIgnore(this);">object has different address already</button><br />
+        <button onclick="requestIgnore(this);">invalid address</button><br />
+        <button onclick="requestIgnore(this);">address does exist</button><br />
+    </div>
     <input id="customReasonInput" /><button id="customReasonButton" onclick="requestIgnore(this);">custom reason</button><br />
 </div>
