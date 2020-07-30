@@ -81,3 +81,15 @@ class SummaryPage:
     def close_tool_window(self):
         link_show_in_osm_org: WebElement = self.browser.find_element(By.ID, 'closeToolWindowButton')
         link_show_in_osm_org.click()
+
+    def ignore(self, reason: str):
+        ignore_button: WebElement = self.find_ignore_button(reason)
+        assert ignore_button is not None
+        ignore_button.click()
+
+    def find_ignore_button(self, reason):
+        return self.browser.find_element(By.XPATH, f'//button[text()="{reason}"]')
+
+    def ignore_reason_selected(self, reason) -> bool:
+        ignore_button: WebElement = self.find_ignore_button(reason)
+        return ignore_button.get_attribute('selected') == 'true'
